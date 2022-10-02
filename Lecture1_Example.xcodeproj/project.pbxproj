@@ -16,6 +16,7 @@
 		2C5D515D288267DF0095F748 /* Lecture1_ExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5D515C288267DF0095F748 /* Lecture1_ExampleTests.swift */; };
 		2C5D5167288267DF0095F748 /* Lecture1_ExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5D5166288267DF0095F748 /* Lecture1_ExampleUITests.swift */; };
 		2C5D5169288267DF0095F748 /* Lecture1_ExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5D5168288267DF0095F748 /* Lecture1_ExampleUITestsLaunchTests.swift */; };
+		2C5D5176288333B00095F748 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5D5175288333B00095F748 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2C5D5162288267DF0095F748 /* Lecture1_ExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lecture1_ExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C5D5166288267DF0095F748 /* Lecture1_ExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lecture1_ExampleUITests.swift; sourceTree = "<group>"; };
 		2C5D5168288267DF0095F748 /* Lecture1_ExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lecture1_ExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2C5D5175288333B00095F748 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				2C5D514E288267DF0095F748 /* Assets.xcassets */,
 				2C5D5150288267DF0095F748 /* LaunchScreen.storyboard */,
 				2C5D5153288267DF0095F748 /* Info.plist */,
+				2C5D5175288333B00095F748 /* Model.swift */,
 			);
 			path = Lecture1_Example;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				2C5D514A288267DD0095F748 /* ViewController.swift in Sources */,
 				2C5D5146288267DD0095F748 /* AppDelegate.swift in Sources */,
 				2C5D5148288267DD0095F748 /* SceneDelegate.swift in Sources */,
+				2C5D5176288333B00095F748 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
